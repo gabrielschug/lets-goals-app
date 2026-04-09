@@ -80,4 +80,4 @@ Acesse a aplicação no seu navegador através do link gerado pelo Vite (geralme
 Projeto desenvolvido em colaboração por:
 
 - **Gabriel Schug**
-- **Joaquim Pedro**
+- **Joaquim Pedro** (https://github.com/llduartx)
